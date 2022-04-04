@@ -1,2 +1,4 @@
 # TeyvatBookClub
-Books from Teyvat
+
+- Compilation of books from Teyvat
+- Android application
